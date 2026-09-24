@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "Closed beta 0.9.0.",
-  "pub_date": "2026-09-23T20:42:15.845Z",
+  "version": "0.9.1",
+  "notes": "Lettuce 0.9.1",
+  "pub_date": "2026-09-24T14:27:28.100Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWkyMkhrVDdJUFIvajZqbTg5d3N6cHBlNVlaVUZPandNYlpCY29UQjd6bm9EVWdmb29tcXU3VkNrT0k4cStvSFBRT1cyTnZIOHZ3VTNzQWJrR0E0VG4yaldTdGZ0TlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTk2MTEwCWZpbGU6TGV0dHVjZS5hcHAudGFyLmd6CnhaSnM3RnNaZHNkR1VJQjA2OE1EUkpFdDRIL2ZUR0t1MGYwZlVucEhReFZSTHZkaFNlYm9hYmdtOU9JMnlOVkZZakVNWWFqUGl3TW1WREk0cUc0aUFBPT0K",
-      "url": "https://github.com/agedhuang/lettuce-releases/releases/download/v0.9.0/Lettuce.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSWkyMkhrVDdJUFhyVmpnd0lwamRvd0lWaGd0VVFrMEJXNURHNWZ3TVN0ZGlTdUFFL0oyZDNXMHg0UUR0WkR1V0o1RG9oaDlIS3dNTm95VDR1UDVBYVcrNnp0aUpFTGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjYwMDI2CWZpbGU6TGV0dHVjZS5hcHAudGFyLmd6ClRQdmFHNzEyUGxpZWp5K1FQV2JDbFlzVnh5dHllNW1MSmRQYUxpc3VhclR2WERVcjhXZk90b3VFU0ZxRGVOU011VU1LV1ErRERrK1lxOVNMVWYxbEJRPT0K",
+      "url": "https://github.com/agedhuang/lettuce-releases/releases/download/v0.9.1/Lettuce.app.tar.gz"
     }
   }
 }
